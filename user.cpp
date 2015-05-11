@@ -1,6 +1,7 @@
 /*
 Title：Student Achievement Management System
 Time：2015-05-10
+pzy
 */
 #include<iostream>
 #include"student.h"
