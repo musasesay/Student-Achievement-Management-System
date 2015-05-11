@@ -77,7 +77,7 @@ public:
 	void AddItem()
 	{
 		End->Input();
-		End->Next = new Student;
+		End->Next = new Student; 
 		End = End->Next;
 		cout << "添加成功!" << endl;
 		cout << "输入任意字符！继续……";
